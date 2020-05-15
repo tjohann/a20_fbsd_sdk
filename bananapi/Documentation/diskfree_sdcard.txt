@@ -1,0 +1,6 @@
+# ---- image
+baalue@bananapi:~$ df -h
+tbd.
+
+
+

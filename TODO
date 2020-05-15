@@ -1,0 +1,34 @@
+#
+# TODO with date and progress
+#
+#
+
+
+#
+# -------------- 2020-05-15 ----------------------------------------------------
+#
+
+## target stuff
+- change localtime
+- add german localization
+- add armhf_env
+- install basic tools
+  - htop
+
+
+
+#
+# -------------- copy/paste ----------------------------------------------------
+#
+## "all"
+## the "rest"
+## toolchain stuff
+## external stuff
+## script stuff
+## sdk stuff
+## target stuff
+## kernel stuff
+## target && sdk stuff
+........................                                    [2020-0x-xx -> done]
+........................                                [2020-0x-xx -> canceled]
+
